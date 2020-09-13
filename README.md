@@ -5,7 +5,7 @@
   - [Descrição do projeto:](#memo-descrição-do-projeto)
   - [Preview:](#camera-preview)
   - [Bibliotecas utilizadas:](#file_folder-bibliotecas-utilizadas)
-  - [Como executar:](#arrow_forward-como-executar:)
+  - [Como executar:](#arrow_forward-como-executar)
 
 
 ## :memo: Descrição do projeto:
